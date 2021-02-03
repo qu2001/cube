@@ -1,4 +1,3 @@
 #!/bin/bash -x
 export SDL_STDIO_REDIRECT=0 # write to console rather than to txt file
 ./start
-rm stdout.txt stderr.txt start
